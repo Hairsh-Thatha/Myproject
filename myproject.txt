@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F806-E96F
+
+ Directory of C:\Users\surap\OneDrive\Desktop\git_practice
+
+04/03/2023  03:22 PM    <DIR>          .
+04/03/2023  03:22 PM    <DIR>          ..
+03/29/2023  01:52 PM                 0 example.txt
+03/29/2023  02:02 PM                 0 example1..txt
+03/29/2023  02:02 PM                 0 example2.txt
+04/03/2023  03:22 PM                 0 myproject.txt
+               4 File(s)              0 bytes
+               2 Dir(s)   7,065,923,584 bytes free
